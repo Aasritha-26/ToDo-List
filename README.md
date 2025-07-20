@@ -23,12 +23,15 @@ A simple and stylish To-Do List web application built with **HTML**, **CSS**, an
 
 ## 📂 Folder Structure
 ToDo-List/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── icons, images etc.
+├── index.html # Main HTML file
 
+├── style.css # Custom styling
+
+├── script.js # Core JavaScript logic
+
+├── screenshot.png # UI screenshot
+
+└── README.md # Project documentation
 
 ## 🔧 Setup Instructions
 1. Clone the repository:
