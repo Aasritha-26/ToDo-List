@@ -22,4 +22,18 @@ A simple and stylish To-Do List web application built with **HTML**, **CSS**, an
 - JavaScript (DOM manipulation + LocalStorage)
 
 ## 📂 Folder Structure
+ToDo-List/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── icons, images etc.
+
+
+## 🔧 Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aasritha-26/ToDo-List.git
+2. Open index.html in any modern web browser.
+
 
