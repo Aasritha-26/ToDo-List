@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📝 To-Do List
 
 A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This mini project helps users add, manage, and delete tasks in a clean and responsive interface.
@@ -25,3 +26,6 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 - Edit tasks  
 - Task categories or filters  
 - Due dates and reminders
+=======
+# ToDo-List
+>>>>>>> 8c5657667741e54b99fe80261ad886010f304136
