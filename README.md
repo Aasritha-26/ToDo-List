@@ -23,6 +23,7 @@ A simple and stylish To-Do List web application built with **HTML**, **CSS**, an
 
 ## 📂 Folder Structure
 ToDo-List/
+
 ├── index.html # Main HTML file
 
 ├── style.css # Custom styling
